@@ -1,7 +1,3 @@
-Tushundim 👍 **faqat GitHub uchun qisqa va toza README** kerak. Mana **copy-paste** qilib qo‘yiladigan variant:
-
----
-
 # 🌤 Weather App
 
 Simple weather application built with **Vanilla JavaScript**.
